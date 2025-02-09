@@ -1,6 +1,6 @@
 # Usage
 The folder with the .cpc files to fix should be in the root folder of the project.
-Run `python fix-header.py`
+Run `python fix_header.py`
 
 # `input_file.txt` formatting
 Make sure it follows this format
@@ -18,7 +18,7 @@ This is so that we can distribute this to devices without Python installed (for 
    
 3. Create the executable:
    ```
-   pyinstaller --onefile fix-cpc.py
+   pyinstaller --onefile fix_header.py
    ```
    
 5. The executable file can be found in the `dist/` folder
