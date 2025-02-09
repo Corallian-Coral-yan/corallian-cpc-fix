@@ -1,0 +1,4 @@
+# Format: "Code File Path (.txt)","Folder Path"
+"C:\CPCe_41_inst\NACRE_SHINE_40 _TUBB.txt","E:\DLSU\Coral 'yan!\Dataset\TUBBATAHA\ORIGINAL (aka MONITORING)\2024 (COMPLETE)\QUADRAT\IMAGE AND CPCE FILE\SHINE-1790_Min Ping Yu, Tubbataha, Cagayancillo\Q1"
+"C:\CPCe_41_inst\NACRE_SHINE_40 _TUBB.txt","E:\DLSU\Coral 'yan!\Dataset\TUBBATAHA\ORIGINAL (aka MONITORING)\2024 (COMPLETE)\QUADRAT\IMAGE AND CPCE FILE\SHINE-1790_Min Ping Yu, Tubbataha, Cagayancillo\Q2"
+"C:\CPCe_41_inst\NACRE_SHINE_40 _TUBB.txt","E:\DLSU\Coral 'yan!\Dataset\TUBBATAHA\ORIGINAL (aka MONITORING)\2024 (COMPLETE)\QUADRAT\IMAGE AND CPCE FILE\SHINE-1790_Min Ping Yu, Tubbataha, Cagayancillo\Q3"
