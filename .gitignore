@@ -1,0 +1,17 @@
+fix_header.spec
+build/fix_header/Analysis-00.toc
+build/fix_header/base_library.zip
+build/fix_header/EXE-00.toc
+build/fix_header/fix_header.pkg
+build/fix_header/PKG-00.toc
+build/fix_header/PYZ-00.pyz
+build/fix_header/PYZ-00.toc
+build/fix_header/warn-fix_header.txt
+build/fix_header/xref-fix_header.html
+build/fix_header/localpycs/pyimod01_archive.pyc
+build/fix_header/localpycs/pyimod02_importers.pyc
+build/fix_header/localpycs/pyimod03_ctypes.pyc
+build/fix_header/localpycs/pyimod04_pywin32.pyc
+build/fix_header/localpycs/struct.pyc
+dist/fix_header.exe
+dist/input_file.txt
