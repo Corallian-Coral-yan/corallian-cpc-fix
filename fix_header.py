@@ -52,7 +52,8 @@ def main():
                 f"Processing folder: {Fore.GREEN}<{folder_name}>{Style.RESET_ALL} with code file: {Fore.GREEN}<{codefile_path}>{Style.RESET_ALL}")
             process_folder(folder_name, codefile_path)
 
-    print("\nProcessing done.")
+    # Prevents immediate exit when packaged as .exe
+    input("\nProcessing done. Press Enter to exit...")
 
 
 if __name__ == '__main__':
