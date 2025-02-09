@@ -35,7 +35,8 @@ def process_folder(folder_name, codefile_path):
             with open(full_cpc_filename, "w") as f:
                f.write(",".join(header) + "\n" + remaining)
 
-    print("Conversion successful for folder: " + folder_name + "\n")
+    print(
+        f"Conversion successful for folder: {Fore.GREEN}<{folder_name}>{Style.RESET_ALL}\n")
 
 
 def main():
